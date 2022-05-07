@@ -1,0 +1,221 @@
+{
+    "name": "Your name",
+    "bio_img": "",
+    "Email": "xx@xx.com",
+    "affiliation": "Institute of ABC",
+    "address": "Road, City, Nation",
+    "major": "Your major",
+    "bio_descr": "AAAAAAAAAAAAAAAA <br> AAAAAAA AA <br> AAAAAA <br> AAAAAA <br> AAAAAAAAAAA AAAAAAAAAAA AAAAAAA  <br> AAA AAA AAAAAA AAAA <br> AAA AA AAAAAAAA AAA <br> AAAA AAAAAAAA AAAA",
+    "lab": [
+        {
+            "name": "AAAAA",
+            "logo": "img/lab_icon.png"
+        }
+    ],
+    "skills": {
+        "Program": [
+            "AAAAA",
+            "BBBBB",
+            "CCCCC",
+            "DDDDD"
+        ],
+        "Coding": [
+            "AAAAA",
+            "BBBBB",
+            "CCCCC",
+            "DDDDD"
+        ],
+        "Development Platform": [
+            "AAAAA",
+            "BBBBB",
+            "CCCCC",
+            "DDDDD"
+        ],
+        "Library": [
+            "AAAAA",
+            "BBBBB",
+            "CCCCC",
+            "DDDDD"
+        ],
+        "Methdology": [
+            "AAAAA",
+            "BBBBB",
+            "CCCCC",
+            "DDDDD"
+        ]
+    },
+    "datasets": [
+        "AAAAA Database (2011-)",
+        "BBBBB Database (2020-)",
+        "AAAAA Database (2022-)"
+    ],
+    "cooperations": [
+        "ABCDEFG (2011-)",
+        "ABCDEFG (2020-)",
+        "ABCDEFG (2022-)"
+    ],
+    "interestes": [
+        {
+            "major": "AAAAAAA",
+            "keywords": "AA AAA AAAAA AAAAAA"
+        },
+        {
+            "major": "BBBBBBB",
+            "keywords": "BB BBB BBBBB BBBBBB"
+        },
+        {
+            "major": "CCCCCCC",
+            "keywords": "CC CCC CCCCC CCCCCC"
+        },
+        {
+            "major": "DDDDDDD",
+            "keywords": "DD DDD DDDDD DDDDDD"
+        }
+    ],
+    "papers": [
+        {
+            "year": 2022,
+            "jcr": "Q1",
+            "index": "1st",
+            "title": "ABCDEFG ABCDEFG ABC",
+            "journal": "Nature",
+            "if": 9.999,
+            "url": "https://www.nature.com/"
+        },
+        {
+            "year": 2022,
+            "jcr": "Q1",
+            "index": "1st",
+            "title": "HIJKLN HIJKLNG HIJKLNTUY",
+            "journal": "Science",
+            "if": 9.999,
+            "url": "https://www.nature.com/"
+        },
+        {
+            "year": 2022,
+            "jcr": "Q1",
+            "index": "1st",
+            "title": "ABCDEFG ABCDEFG ABC",
+            "journal": "Nature",
+            "if": 9.999,
+            "url": "https://www.nature.com/"
+        },
+        {
+            "year": 2022,
+            "jcr": "Q1",
+            "index": "1st",
+            "title": "HIJKLN HIJKLNG HIJKLNTUY",
+            "journal": "Science",
+            "if": 9.999,
+            "url": "https://www.nature.com/"
+        },
+        {
+            "year": 2022,
+            "jcr": "Q1",
+            "index": "1st",
+            "title": "ABCDEFG ABCDEFG ABC",
+            "journal": "Nature",
+            "if": 9.999,
+            "url": "https://www.nature.com/"
+        },
+        {
+            "year": 2022,
+            "jcr": "Q1",
+            "index": "1st",
+            "title": "HIJKLN HIJKLNG HIJKLNTUY",
+            "journal": "Science",
+            "if": 9.999,
+            "url": "https://www.nature.com/"
+        },
+        {
+            "year": 2022,
+            "jcr": "Q1",
+            "index": "1st",
+            "title": "ABCDEFG ABCDEFG ABC",
+            "journal": "Nature",
+            "if": 9.999,
+            "url": "https://www.nature.com/"
+        },
+        {
+            "year": 2022,
+            "jcr": "Q1",
+            "index": "1st",
+            "title": "HIJKLN HIJKLNG HIJKLNTUY",
+            "journal": "Science",
+            "if": 9.999,
+            "url": "https://www.nature.com/"
+        }
+    ],
+    "projects": [
+        {
+            "period": "2019-2022",
+            "name": "AAAAAAAAAAAAAAAA (XYZ).",
+            "no": "[Grant No. 2019ABCDFG01]",
+            "role": "Involve"
+        },
+        {
+            "period": "2019-2022",
+            "name": "BBBBBBBBBBBBBBBB (XYZ).",
+            "no": "[Grant No. 2019ABCDFG02]",
+            "role": "Involve"
+        },
+        {
+            "period": "2019-2022",
+            "name": "AAAAAAAAAAAAAAAA (XYZ).",
+            "no": "[Grant No. 2019ABCDFG01]",
+            "role": "Involve"
+        },
+        {
+            "period": "2019-2022",
+            "name": "BBBBBBBBBBBBBBBB (XYZ).",
+            "no": "[Grant No. 2019ABCDFG02]",
+            "role": "Involve"
+        },
+        {
+            "period": "2019-2022",
+            "name": "AAAAAAAAAAAAAAAA (XYZ).",
+            "no": "[Grant No. 2019ABCDFG01]",
+            "role": "Involve"
+        },
+        {
+            "period": "2019-2022",
+            "name": "BBBBBBBBBBBBBBBB (XYZ).",
+            "no": "[Grant No. 2019ABCDFG02]",
+            "role": "Involve"
+        },
+        {
+            "period": "2019-2022",
+            "name": "AAAAAAAAAAAAAAAA (XYZ).",
+            "no": "[Grant No. 2019ABCDFG01]",
+            "role": "Involve"
+        },
+        {
+            "period": "2019-2022",
+            "name": "BBBBBBBBBBBBBBBB (XYZ).",
+            "no": "[Grant No. 2019ABCDFG02]",
+            "role": "Involve"
+        }
+    ],
+    "co_authors": [
+        {
+            "name": "AA BBBB",
+            "url": "#",
+            "img": "https://cube.elemecdn.com/9/c2/f0ee8a3c7c9638a54940382568c9dpng.png"
+        },
+        {
+            "name": "AA BBBB",
+            "url": "#",
+            "img": "https://cube.elemecdn.com/9/c2/f0ee8a3c7c9638a54940382568c9dpng.png"
+        },
+        {
+            "name": "AA BBBB",
+            "url": "#",
+            "img": "https://cube.elemecdn.com/9/c2/f0ee8a3c7c9638a54940382568c9dpng.png"
+        },
+        {
+            "name": "AA BBBB",
+            "url": "#",
+            "img": "https://cube.elemecdn.com/9/c2/f0ee8a3c7c9638a54940382568c9dpng.png"
+        }
+    ]
+}
