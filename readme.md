@@ -15,6 +15,7 @@
 #### 1. 创建自己的 Github 账号
 已有账户则忽略此步骤，Gitee 同理。
 #### 2. 通过 Fork 将项目代码转存至自己的代码仓库
+
 2.1 访问 https://github.com/DawudMa/Academic-Homepage 
 
 2.2 点击右上角 Fork 
@@ -25,9 +26,13 @@
 
 
 #### 3. 修改配置文件
-3.1 仓库 > config > setting.json > 编辑
-3.2 配置文件为键值对，根据模板修改对应的内容
-3.3 修改完成后点击 Commit changes
+
+3.1 仓库 > config > setting.json > 编辑 
+
+3.2 配置文件为键值对，根据模板修改对应的内容 
+
+3.3 修改完成后点击 Commit changes 
+
 
 #### 4. 完成
 至此学术主页已生成，通过 username.github.io 即可访问。
