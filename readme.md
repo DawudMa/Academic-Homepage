@@ -16,9 +16,13 @@
 已有账户则忽略此步骤，Gitee 同理。
 #### 2. 通过 Fork 将项目代码转存至自己的代码仓库
 2.1 访问 https://github.com/DawudMa/Academic-Homepage 
-2.2 点击右上角 Fork
-2.3 页面将自动跳转到自己的仓库
-2.4 Settings > Rename 仓库名称为 username.github.io
+
+2.2 点击右上角 Fork 
+
+2.3 页面将自动跳转到自己的仓库 
+
+2.4 Settings > Rename 仓库名称为 username.github.io 
+
 
 #### 3. 修改配置文件
 3.1 仓库 > config > setting.json > 编辑
